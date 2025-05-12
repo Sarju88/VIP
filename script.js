@@ -4,7 +4,7 @@ function checkPassword() {
     const errorMessage = document.getElementById('error-message');
     
     // Set the password here
-    const correctPassword = "erytbreyt3498nt9[34t394r734b9t69b354tcb6t34p96t2p3bt034827tb0356t98698465e98t639257y98t479854btb9845t98nb39b";
+    const correctPassword = "iurecyewrygvgtw4er8gjosichgrdfo8wreygicwerjgfc0er97gkyjeryg7srg";
     
     if (password === correctPassword) {
         // Store one-time password completion in localStorage permanently
